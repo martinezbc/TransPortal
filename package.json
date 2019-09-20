@@ -1,0 +1,23 @@
+{
+  "name": "TransPortal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinezbc/TransPortal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinezbc/TransPortal/issues"
+  },
+  "homepage": "https://github.com/martinezbc/TransPortal#readme",
+  "dependencies": {
+    "electron": "^6.0.10"
+  }
+}
